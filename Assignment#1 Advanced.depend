@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1583730375 source:c:\users\akash bajwa\desktop\assignment#1 advanced\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"direct.h"
+	<unistd.h>
+	<dirent.h>
+
+1583587288 c:\users\akash bajwa\desktop\assignment#1 advanced\direct.h
+	<_mingw.h>
+	<stddef.h>
+	<io.h>
+
